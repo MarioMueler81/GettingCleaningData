@@ -1,4 +1,4 @@
-# GettingCleaningData
+# Getting and Cleaning Data - Week 3
 
 This Repository contains the following files to complete the project of 
 "Coursera / Getting and cleaning data / Week 3"
